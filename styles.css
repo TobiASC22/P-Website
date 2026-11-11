@@ -98,7 +98,7 @@ main {
   max-width: 350px;
   width: 100%;
   height: auto;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 350 / 400;
   object-fit: cover;
   float: left;
   border-radius: 20px;
